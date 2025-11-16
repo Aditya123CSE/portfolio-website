@@ -109,3 +109,15 @@ footer {
 #projects li:hover {
     background: rgba(0, 255, 195, 0.15); /* More visible on hover */
 }
+#projects li {
+    background: rgba(0, 255, 195, 0.05); /* Very light, subtle background */
+    padding: 10px 15px;
+    border-radius: 8px;
+    margin: 15px 0;
+    text-align: left;
+    transition: background 0.3s ease;
+}
+
+#projects li:hover {
+    background: rgba(0, 255, 195, 0.15);
+}
