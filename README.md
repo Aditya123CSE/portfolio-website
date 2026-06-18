@@ -10,17 +10,16 @@ https://aditya123cse.github.io/portfolio-website/
 
 ## 👨‍💻 About
 
-I'm a B.Tech Computer Engineering student at Poornima College of Engineering, Jaipur.
+I'm Aditya Sharma, a B.Tech Computer Engineering student at Poornima College of Engineering, Jaipur.
 
-My interests include:
+I enjoy building projects in:
 
 * Artificial Intelligence
 * Web Development
 * Software Engineering
 * Python Development
-* React Applications
 
-I enjoy building practical projects that solve real-world problems and help me learn new technologies.
+My goal is to create practical software solutions while continuously improving my development skills.
 
 ---
 
@@ -33,27 +32,50 @@ I enjoy building practical projects that solve real-world problems and help me l
 
 ---
 
-## ✨ Featured Projects
+## 🚀 Featured Projects
 
 ### 🎙️ Voice Cloner
 
 AI-powered desktop voice cloning application built using XTTS v2, PyTorch, CUDA, and PySide6.
 
-### 📚 AI Study Planner
+Repository:
+https://github.com/Aditya123CSE/Voice-Cloner
 
-Study management platform built with React, Vite, Tailwind CSS, and Supabase.
+---
 
-### 🏥 Vita-C
+### 🌐 Portfolio Website
 
-Clinic booking and patient management platform using Next.js and Supabase.
+Personal portfolio website showcasing projects and skills.
+
+Live Website:
+https://aditya123cse.github.io/portfolio-website/
+
+---
 
 ### 🎮 TicTacArena
 
-AI-powered Tic Tac Toe game built with JavaScript.
+AI-powered Tic-Tac-Toe game built using JavaScript.
+
+Live Demo:
+https://aditya123cse.github.io/tictacarena-ai/
+
+---
 
 ### 🧮 NeoCalc
 
 Modern calculator application built using JavaScript.
+
+Live Demo:
+https://aditya123cse.github.io/neocalc-js/
+
+---
+
+### 🌞 Solar System
+
+Interactive solar system visualization project.
+
+Live Demo:
+https://aditya123cse.github.io/Solar-System/
 
 ---
 
@@ -90,26 +112,23 @@ in your browser.
 
 ## 📫 Contact
 
-**Aditya Sharma**
+📧 Email:
+[adihunny123@gmail.com](mailto:adihunny123@gmail.com)
 
-GitHub:
+💻 GitHub:
 https://github.com/Aditya123CSE
 
-Portfolio:
+🌐 Portfolio:
 https://aditya123cse.github.io/portfolio-website/
-
-Email:
-[adihunny123@gmail.com](mailto:adihunny123@gmail.com)
 
 ---
 
-## ⭐ Future Improvements
+## 🎯 Future Improvements
 
+* Resume download section
 * Project screenshots
-* Resume download button
-* Dark/Light theme switcher
-* Skills section animations
-* Project filtering
+* Additional project showcases
+* Improved animations and UI
 
 ---
 
